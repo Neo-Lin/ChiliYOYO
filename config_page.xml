@@ -1,0 +1,213 @@
+﻿<?xml version='1.0' ?>
+<chapter1>
+	<hint question='請找出形狀與花色都相同的物品。' type='1'>
+		<q_img>10001.png</q_img>
+		<a_img>10001.png</a_img>
+		<a_img>10002.png</a_img>
+		<a_img>10003.png</a_img>
+		<a_img>10004.png</a_img>
+	</hint>
+	<hint question='請找出型狀與下圖中線框相同的水果。' type='1'>
+		<q_img>2-10002.png</q_img>
+		<a_img>20002.png</a_img>
+		<a_img>20003.png</a_img>
+		<a_img>20004.png</a_img>
+		<a_img>20001.png</a_img>
+	</hint>
+	<hint question='請找出與下面線框相符的物品。' type='1'>
+		<q_img>3-10006.png</q_img>
+		<a_img>30006.png</a_img>
+		<a_img>30007.png</a_img>
+		<a_img>30008.png</a_img>
+		<a_img>30005.png</a_img>
+	</hint>
+	<hint question='請找出適合搭配的服裝或配件。' type='1'>
+		<q_img>60003.png</q_img>
+		<a_img>6-10003.png</a_img>
+		<a_img>6-10002.png</a_img>
+		<a_img>6-10001.png</a_img>
+		<a_img>6-10004.png</a_img>
+	</hint>
+	<hint question='請找出相同的球。' type='1'>
+		<q_img>70006.png</q_img>
+		<a_img>70006.png</a_img>
+		<a_img>70007.png</a_img>
+		<a_img>70008.png</a_img>
+		<a_img>70005.png</a_img>
+	</hint>
+	<hint question='尋找下圖中所缺少的拼圖。' type='1'>
+		<q_img>80006.png</q_img>
+		<a_img>8-10006.png</a_img>
+		<a_img>8-10007.png</a_img>
+		<a_img>8-10008.png</a_img>
+		<a_img>8-10005.png</a_img>
+	</hint>
+	<hint question='請找出型狀與下圖中線框相同的水果。' type='1'>
+		<q_img>2-10008.png</q_img>
+		<a_img>20008.png</a_img>
+		<a_img>20007.png</a_img>
+		<a_img>20006.png</a_img>
+		<a_img>20005.png</a_img>
+	</hint>
+	<hint question='請找出適合搭配的服裝或配件。' type='1'>
+		<q_img>60007.png</q_img>
+		<a_img>6-10007.png</a_img>
+		<a_img>6-10006.png</a_img>
+		<a_img>6-10005.png</a_img>
+		<a_img>6-10008.png</a_img>
+	</hint>
+	<hint question='請找出相同的球。' type='1'>
+		<q_img>70002.png</q_img>
+		<a_img>70002.png</a_img>
+		<a_img>70001.png</a_img>
+		<a_img>70003.png</a_img>
+		<a_img>70004.png</a_img>
+	</hint>
+	<hint question='尋找下圖中所缺少的拼圖。' type='1'>
+		<q_img>80004.png</q_img>
+		<a_img>8-10004.png</a_img>
+		<a_img>8-10003.png</a_img>
+		<a_img>8-10002.png</a_img>
+		<a_img>8-10001.png</a_img>
+	</hint>
+	<hint question='請找出與下圖中相同的數量。' type='2'>
+		<q_img>90001.png</q_img>
+		<a_img>90004.png</a_img>
+		<a_img>90003.png</a_img>
+		<a_img>90002.png</a_img>
+		<a_img>90005.png</a_img>
+	</hint>
+	<hint question='請找出與下圖中相同的數量。' type='2'>
+		<q_img>90003.png</q_img>
+		<a_img>100007.png</a_img>
+		<a_img>90006.png</a_img>
+		<a_img>90007.png</a_img>
+		<a_img>90008.png</a_img>
+	</hint>
+	<hint question='請找出與下圖中相同的數量。' type='2'>
+		<q_img>100001.png</q_img>
+		<a_img>90008.png</a_img>
+		<a_img>100003.png</a_img>
+		<a_img>100002.png</a_img>
+		<a_img>100004.png</a_img>
+	</hint>
+	<hint question='請找出與下圖中相同的數量。' type='2'>
+		<q_img>100008.png</q_img>
+		<a_img>90007.png</a_img>
+		<a_img>100007.png</a_img>
+		<a_img>100006.png</a_img>
+		<a_img>100005.png</a_img>
+	</hint>
+	<hint question='請找出與下圖中相同的數量。' type='2'>
+		<q_img>110004.png</q_img>
+		<a_img>11-10004.png</a_img>
+		<a_img>11-10003.png</a_img>
+		<a_img>11-10002.png</a_img>
+		<a_img>11-10001.png</a_img>
+	</hint>
+	<hint question='請找出與下圖中相同的數量。' type='2'>
+		<q_img>110007.png</q_img>
+		<a_img>11-10007.png</a_img>
+		<a_img>11-10006.png</a_img>
+		<a_img>11-10005.png</a_img>
+		<a_img>11-10008.png</a_img>
+	</hint>
+	<hint question='請找出與下圖中相同的數量。' type='2'>
+		<q_img>120004.png</q_img>
+		<a_img>12-10004.png</a_img>
+		<a_img>12-10003.png</a_img>
+		<a_img>12-10002.png</a_img>
+		<a_img>12-10001.png</a_img>
+	</hint>
+	<hint question='請找出與下圖中相同的數量。' type='2'>
+		<q_img>120006.png</q_img>
+		<a_img>12-10006.png</a_img>
+		<a_img>12-10005.png</a_img>
+		<a_img>12-10007.png</a_img>
+		<a_img>12-10008.png</a_img>
+	</hint>
+	<hint question='請問下圖中的數量要加上多少才會等於12?' type='2'>
+		<q_img>180002.png</q_img>
+		<a_img>18-10002.png</a_img>
+		<a_img>18-10003.png</a_img>
+		<a_img>18-10004.png</a_img>
+		<a_img>18-10001.png</a_img>
+	</hint>
+	<hint question='請問下圖中的數量要加上多少才會等於12?' type='2'>
+		<q_img>180007.png</q_img>
+		<a_img>18-10007.png</a_img>
+		<a_img>18-10008.png</a_img>
+		<a_img>18-10005.png</a_img>
+		<a_img>18-10006.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10004.png</q_img>
+		<a_img>250004.png</a_img>
+		<a_img>250003.png</a_img>
+		<a_img>250002.png</a_img>
+		<a_img>250001.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10003.png</q_img>
+		<a_img>250003.png</a_img>
+		<a_img>250004.png</a_img>
+		<a_img>250002.png</a_img>
+		<a_img>250001.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10002.png</q_img>
+		<a_img>250002.png</a_img>
+		<a_img>250004.png</a_img>
+		<a_img>250003.png</a_img>
+		<a_img>250001.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10001.png</q_img>
+		<a_img>250001.png</a_img>
+		<a_img>250004.png</a_img>
+		<a_img>250003.png</a_img>
+		<a_img>250002.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10005.png</q_img>
+		<a_img>250005.png</a_img>
+		<a_img>250006.png</a_img>
+		<a_img>250007.png</a_img>
+		<a_img>250008.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10006.png</q_img>
+		<a_img>250006.png</a_img>
+		<a_img>250005.png</a_img>
+		<a_img>250007.png</a_img>
+		<a_img>250008.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10007.png</q_img>
+		<a_img>250007.png</a_img>
+		<a_img>250005.png</a_img>
+		<a_img>250006.png</a_img>
+		<a_img>250008.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10008.png</q_img>
+		<a_img>250008.png</a_img>
+		<a_img>250005.png</a_img>
+		<a_img>250006.png</a_img>
+		<a_img>250007.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10001.png</q_img>
+		<a_img>250001.png</a_img>
+		<a_img>250004.png</a_img>
+		<a_img>250003.png</a_img>
+		<a_img>250002.png</a_img>
+	</hint>
+	<hint question='每個小朋友的氣球跟上衣的顏色是一樣的，請問下面這個氣球是誰的呢?' type='3'>
+		<q_img>25-10005.png</q_img>
+		<a_img>250005.png</a_img>
+		<a_img>250006.png</a_img>
+		<a_img>250007.png</a_img>
+		<a_img>250008.png</a_img>
+	</hint>
+</chapter1>
