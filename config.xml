@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.chiliman.ChiliYOYO" version="1.0.0.5">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.chiliman.ChiliYOYO" version="1.0.0.6">
 
 	<name>ChiliYOYO</name>
 	<description>ChiliYOYO</description>
@@ -13,7 +13,6 @@
 	<preference name="orientation" value="portrait" />
 	<preference name="fullscreen" value="true" />
 	<preference name="target-device" value="universal" />
-	<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0" />
 
 	<!-- Optional splash screen image, e.g.: -->
 	<!-- <gap:splash src="splash.png" width="1024" height="768" /> -->
